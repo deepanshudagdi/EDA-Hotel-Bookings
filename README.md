@@ -7,7 +7,6 @@
 - [Analysis](#analysis)
 - [Insights](#insights)
 - [Conclusion](#conclusion)
-- [Project Summary](#project-summary)
 
 ## Overview
 This project involves the analysis of a hotel booking dataset to derive insights and make data-driven decisions for a hotel business.
@@ -17,40 +16,6 @@ The primary objective of this analysis is to understand booking patterns, cancel
 
 ## Data
 The dataset used for this analysis contains information about hotel bookings, including booking dates, guest details, and booking status.
-
-### Data Description
-- `hotel`: Name of the hotel (Resort Hotel or City Hotel)
-- `is_canceled`: If the booking was canceled (1) or not (0)
-- `lead_time`: Number of days before the actual arrival of the guests
-- `arrival_date_year`: Year of arrival date
-- `arrival_date_month`: Month of month arrival date
-- `arrival_date_week_number`: Week number of year for arrival date
-- `arrival_date_day_of_month`: Day of arrival date
-- `stays_in_weekend_nights`: Number of weekend nights (Saturday or Sunday) spent at the hotel by the guests.
-- `stays_in_week_nights`: Number of weeknights (Monday to Friday) spent at the hotel by the guests.
-- `adults`: Number of adults among guests
-- `children`: Number of children among guests
-- `babies`: Number of babies among guests
-- `meal`: Type of meal booked
-- `country`: Country of guests
-- `market_segment`: Designation of market segment
-- `distribution_channel`: Name of booking distribution channel
-- `is_repeated_guest`: If the booking was from a repeated guest (1) or not (0)
-- `previous_cancellations`: Number of previous bookings that were canceled by the customer prior to the current booking
-- `previous_bookings_not_canceled`: Number of previous bookings not canceled by the customer prior to the current booking
-- `reserved_room_type`: Code of room type reserved
-- `assigned_room_type`: Code of room type assigned
-- `booking_changes`: Number of changes/amendments made to the booking
-- `deposit_type`: Type of the deposit made by the guest
-- `agent`: ID of travel agent who made the booking
-- `company`: ID of the company that made the booking
-- `days_in_waiting_list`: Number of days the booking was in the waiting list
-- `customer_type`: Type of customer, assuming one of four categories
-- `adr`: Average Daily Rate, as defined by dividing the sum of all lodging transactions by the total number of staying nights
-- `required_car_parking_spaces`: Number of car parking spaces required by the customer
-- `total_of_special_requests`: Number of special requests made by the customer
-- `reservation_status`: Reservation status (Canceled, Check-Out or No-Show)
-- `reservation_status_date`: Date at which the last reservation status was updated
 
 ## Analysis
 - Initial data exploration
@@ -107,12 +72,7 @@ The project concludes that informed decision-making based on data analytics can 
 
 By leveraging these insights and recommendations, hotel management can make informed decisions, enhance guest satisfaction, and drive long-term business growth.
 
-## Project Summary
-
-This project involved a comprehensive analysis of a hotel booking dataset, providing valuable insights for the hotel industry. Key findings include variations in booking behavior, cancellation rates, guest types, room preferences, geographic insights, and seasonal booking patterns. These insights can guide marketing strategies, revenue optimization, and guest retention efforts in the hotel business. The project aims to empower hoteliers with data-driven decision-making to enhance the guest experience and maximize revenue.
-
-For more details, please refer to the full project report.
-
+## Author: Deepanshu Dagdi
 
 
 
