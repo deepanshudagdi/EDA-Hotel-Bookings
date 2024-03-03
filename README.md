@@ -9,10 +9,10 @@
 - [Conclusion](#conclusion)
 
 ## Overview
-This project involves the analysis of a hotel booking dataset to derive insights and make data-driven decisions for a hotel business.
+This project involves scrutinizing the unemployment trends in India and extracting valuable insights.
 
 ## Objective
-The primary objective of this analysis is to understand booking patterns, cancellations, revenue generation, and guest behavior to make informed business decisions.
+This analysis aims to identify the states or regions with the highest unemployment rates in India, to devise strategies to mitigate unemployment challenges.
 
 ## Data
 The dataset used for this analysis contains information about hotel bookings, including booking dates, guest details, and booking status.
